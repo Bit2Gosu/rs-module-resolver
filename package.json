@@ -1,0 +1,9 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "devDependencies": {
+    "@types/node": "^6.0.40",
+    "@types/node-dir": "0.0.30",
+    "node-dir": "^0.1.16"
+  }
+}
